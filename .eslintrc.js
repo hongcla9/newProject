@@ -13,4 +13,7 @@ module.exports = {
   },
   rules: {
   },
-};
+
+env: {
+  browser: true
+}};
